@@ -1,6 +1,6 @@
 # techbeatly content editor intstructions
 
-[Sample blog format](sample-blog.md]
+[Sample blog format](sample-blog.md)
 
 ### Tips for Contributors
 * **Tone:** Professional yet conversational. Think of it as a "helpful peer" sharing knowledge.
