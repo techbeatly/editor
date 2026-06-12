@@ -2,6 +2,7 @@
 
 - [Sample blog format](sample-blog.md)
 - [Sample author profile](author-profile.md)
+- [Blog Elements](blog-elements.md)
 
 ### Tips for Contributors
 * **Tone:** Professional yet conversational. Think of it as a "helpful peer" sharing knowledge.
